@@ -4,6 +4,10 @@ Segue abaixo uma pequena brincadeira que fiz com a foto de um amigo meu. A pose 
 
 ![The Creation of Edu](http://impressinhos.com.br/wp-content/uploads/2019/05/The-Creation-of-Edu.png)
 
+Segue abaixo a pintura original: 
+
+![The The Creation of Adam](http://impressinhos.com.br/wp-content/uploads/2019/05/1280px-Michelangelo_-_Creation_of_Adam_cropped-620x281.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chiicones/impressinhos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
