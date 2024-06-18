@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Dida do Fla e o Time do Postal, dois livros sobre futebol
 
 O baiano Gustavo Mariani escreveu sobre futebol a vida toda. Jornalista, trabalhou no (e ainda contribui com o) Jornal de Brasília e hoje mantém [um blog dedicado ao Vasco da Gama](http://kikedabola.blogspot.com/) e outros assuntos.

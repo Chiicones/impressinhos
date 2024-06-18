@@ -1,9 +1,17 @@
-title: 
-logo: /assets/img/logo.png
-description: Esse site é para quem quer design para convites virtuais ou impressão em pouca quantidade e boa qualidade.
-
-    Veja alguns dos nossos [trabalhos](/blog).
-
+---
+title: Impressinhos
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+logo: "/assets/img/logo.png"
+description: |-
+  Esse site é para quem quer design para convites virtuais ou impressão em pouca quantidade e boa qualidade.
+  Veja alguns dos nossos [trabalhos](/blog).
 show_downloads: true
-google_analytics:
+google_analytics: 
 theme: jekyll-theme-minimal
